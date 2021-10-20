@@ -48,7 +48,7 @@ app.post("/codeready_send_mail",  (req, res) => {
         }
         else {
             console.log("Server is ready to take our messages");
-            return res.redirect("https://infograins.com/");
+            return res.redirect("3.110.16.6:5000/index.html");
             // return res.redirect("/index.html")
         }
     });
