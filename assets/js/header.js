@@ -51,13 +51,13 @@ header.innerHTML = `		<div class="container-fluid">
                                 </div>
                                 <h5>Real-Estate App</h5>
                                 <div class="list-group">
-                                    <a class="list-group-item" href="#">Zillow Clone</a>
-                                    <a class="list-group-item" href="#">Trulia Clone</a>
+                                    <a class="list-group-item" href="zillow-clone.html">Zillow Clone</a>
+                                    <a class="list-group-item" href="trulia-clone.html">Trulia Clone</a>
                                 </div>
                                 <h5>Rental App</h5>
                                 <div class="list-group">
-                                    <a class="list-group-item" href="#">Airbnb Clone</a>
-                                    <a class="list-group-item" href="#">Vocation Rental App</a>
+                                    <a class="list-group-item" href="airbnb-clone.html">Airbnb Clone</a>
+                                    <a class="list-group-item" href="vacation-rental-app.html">Vacation Rental App</a>
                                     <a class="list-group-item" href="#">Car Rental App</a>
                                     <a class="list-group-item" href="#">Wimdu Clone</a>
                                 </div>
