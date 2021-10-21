@@ -58,13 +58,13 @@ header.innerHTML = `		<div class="container-fluid">
                                 <div class="list-group">
                                     <a class="list-group-item" href="airbnb-clone.html">Airbnb Clone</a>
                                     <a class="list-group-item" href="vacation-rental-app.html">Vacation Rental App</a>
-                                    <a class="list-group-item" href="#">Car Rental App</a>
-                                    <a class="list-group-item" href="#">Wimdu Clone</a>
+                                    <a class="list-group-item" href="car-rental-app.html">Car Rental App</a>
+                                    <a class="list-group-item" href="wimdu-clone.html">Wimdu Clone</a>
                                 </div>
                                 <h5>Travel App</h5>
                                 <div class="list-group">
-                                    <a class="list-group-item" href="#">MakeMyTrip Clone</a>
-                                    <a class="list-group-item" href="#">TripAdvisor Clone</a>
+                                    <a class="list-group-item" href="makemytrip-clone.html">MakeMyTrip Clone</a>
+                                    <a class="list-group-item" href="tripadvisor-clone.html">TripAdvisor Clone</a>
                                 </div>
                             </div>
                             <div class="col-12 col-sm-4 col-md-3 py-4">

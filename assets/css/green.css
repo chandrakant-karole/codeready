@@ -2694,3 +2694,10 @@ footer .copyright {
     padding: 5px 15px;
   }
 }
+
+/* =========*/
+.btn-white.tripAd_btm_reqBtn{
+  margin-top: 20px;
+  background-color: #1F7CC0;
+  color: #fff;
+}
