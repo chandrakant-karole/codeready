@@ -48,10 +48,10 @@ app.post("/codeready_send_mail",  (req, res) => {
         }
         else {
             console.log("Server is ready to take our messages");
-            return res.redirect("https://infograins.com/");
+            return res.redirect("http://3.110.16.6/");
             // return res.redirect("/index.html")
         }
     });
     });
 
-app.listen(3000, () => console.log('server is listening 3000....'));
+app.listen(5000, () => console.log('server is listening 5000....'));
