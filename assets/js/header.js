@@ -70,8 +70,8 @@ header.innerHTML = `		<div class="container-fluid">
                             <div class="col-12 col-sm-4 col-md-3 py-4">
                                 <h5>On-Demand App</h5>
                                 <div class="list-group">
-                                    <a class="list-group-item" href="#">Uber Like App Developement</a>
-                                    <a class="list-group-item" href="#">Uber Like App For Mechanics</a>
+                                    <a class="list-group-item" href="uber-like-app-development.html">Uber Like App Developement</a>
+                                    <a class="list-group-item" href="uber-like-app-mechanics.html">Uber Like App For Mechanics</a>
                                     <a class="list-group-item" href="#">Uber Like App For Laundry</a>
                                     <a class="list-group-item" href="#">Uber Like App For Courier</a>
                                     <a class="list-group-item" href="#">Uber Like App For Movers</a>
