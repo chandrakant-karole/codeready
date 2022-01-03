@@ -2701,3 +2701,55 @@ footer .copyright {
   background-color: #1F7CC0;
   color: #fff;
 }
+
+.dropdown-item.coming{
+  position: relative;
+  overflow: hidden;
+}
+
+.dropdown-item.coming::after{
+  content: 'Coming Soon';
+  position: absolute;
+  top: -5px;
+  left: 66%;
+  width: 100%;
+  height: 100%;
+  font-size: 13px;
+  font-weight: 600;
+  color: #ff650061;
+}
+
+.dropdown-item.erp.coming{
+  position: relative;
+  overflow: hidden;
+}
+
+.dropdown-item.erp.coming::after{
+  content: 'Coming Soon';
+  position: absolute;
+  top: -5px;
+  left: 40%;
+  width: 100%;
+  height: 100%;
+  font-size: 13px;
+  font-weight: 600;
+  color: #ff650061;
+}
+
+
+.list-group-item.coming{
+  position: relative;
+  overflow: hidden;
+}
+
+.list-group-item.coming::after{
+  content: 'Coming Soon';
+  position: absolute;
+  top: -3px;
+  left: 60%;
+  width: 100%;
+  height: 100%;
+  font-size: 13px;
+  font-weight: 600;
+  color: #ff650094;
+}
