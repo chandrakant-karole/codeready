@@ -128,7 +128,7 @@ header.innerHTML = `		<div class="container-fluid">
                                     <a class="list-group-item" href="groupon-clone.html">Groupon Clone</a>
                                     <a class="list-group-item" href="ebay-clone.html">eBay Clone</a>
                                     <a class="list-group-item" href="yoink-clone.html">Yoink Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">Woot Clone</a>
+                                    <a class="list-group-item" href="woot-clone.html">Woot Clone</a>
                                 </div>
                                 <h5>Entertainment App</h5>
                                 <div class="list-group">
