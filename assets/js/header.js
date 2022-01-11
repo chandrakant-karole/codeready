@@ -76,31 +76,31 @@ header.innerHTML = `		<div class="container-fluid">
                                     <a class="list-group-item" href="uber-like-app-courier.html">Uber Like App For Courier</a>
                                     <a class="list-group-item" href="uber-like-app-mover.html">Uber Like App For Movers</a>
                                     <a class="list-group-item" href="uber-like-app-tow-truck.html">Uber Like App For Tow Truck</a>
-                                    <a class="list-group-item coming disabled" href="#">Uber Like App For Plumbers</a>
-                                    <a class="list-group-item coming disabled" href="#">Uber Like App For Beauty</a>
-                                    <a class="list-group-item coming disabled" href="#">Uber Like App For Massage</a>
-                                    <a class="list-group-item coming disabled" href="#">Uber Like App For Tutors</a>
-                                    <a class="list-group-item coming disabled" href="#">Uber Like App For Handyman</a>
-                                    <a class="list-group-item coming disabled" href="#">Uber Like App For Dogwalkers</a>
-                                    <a class="list-group-item coming disabled" href="#">Uber Like App For Marijuana</a>
-                                    <a class="list-group-item coming disabled" href="#">Uber Like App For Alcohol
+                                    <a class="list-group-item " href="uber-like-app-plumber.html">Uber Like App For Plumbers</a>
+                                    <a class="list-group-item " href="uber-like-app-beauty.html">Uber Like App For Beauty</a>
+                                    <a class="list-group-item " href="uber-like-app-massage.html">Uber Like App For Massage</a>
+                                    <a class="list-group-item " href="uber-like-app-tutor.html">Uber Like App For Tutors</a>
+                                    <a class="list-group-item " href="uber-like-app-handyman.html">Uber Like App For Handyman</a>
+                                    <a class="list-group-item " href="uber-like-app-dogwalkers.html">Uber Like App For Dogwalkers</a>
+                                    <a class="list-group-item " href="uber-like-app-marijuana.html">Uber Like App For Marijuana</a>
+                                    <a class="list-group-item " href="uber-like-app-alcohol-delivery.html">Uber Like App For Alcohol
                                         Delivery</a>
-                                    <a class="list-group-item coming disabled" href="#">Uber Like App For Cuddling</a>
-                                    <a class="list-group-item coming disabled" href="#">Uber Like App For Flower
+                                    <a class="list-group-item " href="uber-like-app-cuddling.html">Uber Like App For Cuddling</a>
+                                    <a class="list-group-item " href="uber-like-app-flower.html">Uber Like App For Flower
                                         Delivery</a>
-                                    <a class="list-group-item coming disabled" href="#">Uber Like App For Babysitters</a>
+                                    <a class="list-group-item " href="uber-like-app-babysitters.html">Uber Like App For Babysitters</a>
                                 </div>
                                 <h5>Ridesharing App</h5>
                                 <div class="list-group">
-                                    <a class="list-group-item coming disabled" href="#">Lime Bike Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">Uber Like App For E-Scooters</a>
-                                    <a class="list-group-item coming disabled" href="#">Bike Taxi Software</a>
+                                    <a class="list-group-item " href="lime-bike-clone.html">Lime Bike Clone</a>
+                                    <a class="list-group-item " href="uber-like-app-e-scooters.html">Uber Like App For E-Scooters</a>
+                                    <a class="list-group-item " href="bike-taxi-software.html">Bike Taxi Software</a>
                                     <a class="list-group-item coming disabled" href="#">Rapdio Clone</a>
                                 </div>
                                 <h5>Doctor App</h5>
                                 <div class="list-group">
-                                    <a class="list-group-item coming disabled" href="#">ZocDoc Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">Uber Like App For Doctors</a>
+                                    <a class="list-group-item " href="zocdoc-clone.html">ZocDoc Clone</a>
+                                    <a class="list-group-item " href="uber-like-app-doctors.html">Uber Like App For Doctors</a>
                                 </div>
                                 <h5>Travel Management Software</h5>
                                 <div class="list-group">
@@ -112,17 +112,17 @@ header.innerHTML = `		<div class="container-fluid">
                             <div class="col-12 col-sm-4 col-md-3 py-4">
                                 <h5>Social Media App</h5>
                                 <div class="list-group">
-                                    <a class="list-group-item coming disabled" href="#">WhatsApp Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">Line Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">Viber Clone</a>
+                                    <a class="list-group-item " href="whatsapp-clone.html">WhatsApp Clone</a>
+                                    <a class="list-group-item " href="line-clone.html">Line Clone</a>
+                                    <a class="list-group-item " href="viber-clone.html">Viber Clone</a>
                                     <a class="list-group-item coming disabled" href="#">Twitter Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">Instagram Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">Snapchat Clone</a>
+                                    <a class="list-group-item " href="instagram-clone.html">Instagram Clone</a>
+                                    <a class="list-group-item " href="snapchat-clone.html">Snapchat Clone</a>
                                 </div>
                                 <h5>E-Commerce App</h5>
                                 <div class="list-group">
-                                    <a class="list-group-item coming disabled" href="#">Multi Vendor E-Commerce Script</a>
-                                    <a class="list-group-item coming disabled" href="#">Amazon / Flipkart Clone</a>
+                                    <a class="list-group-item" href="multi-vendor-e-commerce-script.html">Multi Vendor E-Commerce Script</a>
+                                    <a class="list-group-item" href="amazon-flipkart-clone.html">Amazon / Flipkart Clone</a>
                                     <a class="list-group-item coming disabled" href="#">Etsy Clone</a>
                                     <a class="list-group-item coming disabled" href="#">Alibaba Clone</a>
                                     <a class="list-group-item coming disabled" href="#">Groupon Clone</a>
