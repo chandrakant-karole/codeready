@@ -123,11 +123,11 @@ header.innerHTML = `		<div class="container-fluid">
                                 <div class="list-group">
                                     <a class="list-group-item" href="multi-vendor-e-commerce-script.html">Multi Vendor E-Commerce Script</a>
                                     <a class="list-group-item" href="amazon-flipkart-clone.html">Amazon / Flipkart Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">Etsy Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">Alibaba Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">Groupon Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">eBay Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">Yoink Clone</a>
+                                    <a class="list-group-item" href="etsy-clone.html">Etsy Clone</a>
+                                    <a class="list-group-item" href="alibaba-clone.html">Alibaba Clone</a>
+                                    <a class="list-group-item" href="groupon-clone.html">Groupon Clone</a>
+                                    <a class="list-group-item" href="ebay-clone.html">eBay Clone</a>
+                                    <a class="list-group-item" href="yoink-clone.html">Yoink Clone</a>
                                     <a class="list-group-item coming disabled" href="#">Woot Clone</a>
                                 </div>
                                 <h5>Entertainment App</h5>
