@@ -132,7 +132,7 @@ header.innerHTML = `		<div class="container-fluid">
                                 </div>
                                 <h5>Entertainment App</h5>
                                 <div class="list-group">
-                                    <a class="list-group-item coming disabled" href="#">9GAG TV Clone</a>
+                                    <a class="list-group-item" href="9gag-tv-clone.html">9GAG TV Clone</a>
                                     <a class="list-group-item coming disabled" href="#">9GAG Clone</a>
                                     <a class="list-group-item coming disabled" href="#">Flipboard Clone</a>
                                     <a class="list-group-item coming disabled" href="#">Spotify Clone</a>
@@ -157,17 +157,17 @@ header.innerHTML = `		<div class="container-fluid">
                             <div class="col-12 col-sm-12 col-md-3 py-4">
                                 <h5>Education App</h5>
                                 <div class="list-group">
-                                    <a class="list-group-item coming disabled" href="#">Udemy Clone</a>
+                                    <a class="list-group-item " href="udemy-clone.html">Udemy Clone</a>
                                 </div>
                                 <h5>Job Marketplace App</h5>
                                 <div class="list-group">
-                                    <a class="list-group-item coming disabled" href="#">Fiverr Clone </a>
-                                    <a class="list-group-item coming disabled" href="#">Freelancer Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">Upwork Clone</a>
+                                    <a class="list-group-item " href="fiverr-clone.html">Fiverr Clone </a>
+                                    <a class="list-group-item " href="freelancer-clone.html">Freelancer Clone</a>
+                                    <a class="list-group-item " href="upwork-clone.html">Upwork Clone</a>
                                 </div>
                                 <h5>Multi-Services App</h5>
                                 <div class="list-group">
-                                    <a class="list-group-item coming disabled" href="#">Urbanclap Clone</a>
+                                    <a class="list-group-item " href="urbanclap-clone.html">Urbanclap Clone</a>
                                     <a class="list-group-item coming disabled" href="#">Postmates Clone</a>
                                     <a class="list-group-item coming disabled" href="#">Dunzo Clone</a>
                                     <a class="list-group-item coming disabled" href="#">HouseJoy Clone</a>
