@@ -133,16 +133,15 @@ header.innerHTML = `		<div class="container-fluid">
                                 <h5>Entertainment App</h5>
                                 <div class="list-group">
                                     <a class="list-group-item" href="9gag-tv-clone.html">9GAG TV Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">9GAG Clone</a>
                                     <a class="list-group-item coming disabled" href="#">Flipboard Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">Spotify Clone</a>
+                                    <a class="list-group-item" href="spotify-clone.html">Spotify Clone</a>
                                 </div>
                                 <h5>On-Demand Video Streaming App</h5>
                                 <div class="list-group">
-                                    <a class="list-group-item coming disabled" href="#">Netflix Clone Script</a>
-                                    <a class="list-group-item coming disabled" href="#">Hulu Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">YouTube Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">Tik-Tok Clone</a>
+                                    <a class="list-group-item" href="netflix-clone-script.html">Netflix Clone Script</a>
+                                    <a class="list-group-item" href="hulu-clone.html">Hulu Clone</a>
+                                    <a class="list-group-item" href="youtube-clone.html">YouTube Clone</a>
+                                    <a class="list-group-item" href="tik-tok-clone.html">Tik-Tok Clone</a>
                                 </div>
                                 <h5>Services</h5>
                                 <div class="list-group">
