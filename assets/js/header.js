@@ -166,11 +166,11 @@ header.innerHTML = `		<div class="container-fluid">
                                 </div>
                                 <h5>Multi-Services App</h5>
                                 <div class="list-group">
-                                    <a class="list-group-item " href="urbanclap-clone.html">Urbanclap Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">Postmates Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">Dunzo Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">HouseJoy Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">Uber for x</a>
+                                    <a class="list-group-item" href="urbanclap-clone.html">Urbanclap Clone</a>
+                                    <a class="list-group-item" href="postmates-clone.html">Postmates Clone</a>
+                                    <a class="list-group-item" href="dunzo-clone.html">Dunzo Clone</a>
+                                    <a class="list-group-item" href="housejoy-clone.html">HouseJoy Clone</a>
+                                    <a class="list-group-item" href="uber-for-x.html">Uber for x</a>
                                 </div>
                                 <h5>Dating App</h5>
                                 <div class="list-group">
@@ -178,14 +178,14 @@ header.innerHTML = `		<div class="container-fluid">
                                 </div>
                                 <h5>Fundraising App</h5>
                                 <div class="list-group">
-                                    <a class="list-group-item coming disabled" href="#">Crowdfunding Script</a>
+                                    <a class="list-group-item" href="crowdfunding-script.html">Crowdfunding Script</a>
                                     <a class="list-group-item coming disabled" href="#">Kickstarter Clone</a>
                                     <a class="list-group-item coming disabled" href="#">Gofund Clone</a>
                                     <a class="list-group-item coming disabled" href="#">Indiegogo Clone</a>
                                 </div>
                                 <h5>Other Products</h5>
                                 <div class="list-group">
-                                    <a class="list-group-item coming disabled" href="#">Chattbot Software</a>
+                                    <a class="list-group-item" href="chatbot-software.html">Chatbot Software</a>
                                     <a class="list-group-item coming disabled" href="#">Letgo Clone</a>
                                     <a class="list-group-item coming disabled" href="#">Flippa Clone</a>
                                     <a class="list-group-item coming disabled" href="#">IMDB Clone</a>
@@ -219,10 +219,10 @@ header.innerHTML = `		<div class="container-fluid">
             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown"
                 data-bs-auto-close="outside">Blockchain Development</a>
             <ul class="dropdown-menu shadow">
-                <li><a class="dropdown-item coming disabled" href="#">Cryptokitties Clone</a></li>
-                <li><a class="dropdown-item coming disabled" href="#">Local Bitcoin Clone</a></li>
-                <li><a class="dropdown-item coming disabled" href="#">Coinmarket Cap Clone</a></li>
-                <li><a class="dropdown-item coming disabled" href="#">ICO Bench - Clone</a></li>
+                <li><a class="dropdown-item" href="cryptokitties-clone.html">Cryptokitties Clone</a></li>
+                <li><a class="dropdown-item" href="local-bitcoin-clone.html">Local Bitcoin Clone</a></li>
+                <li><a class="dropdown-item" href="coinmarketcap-clone.html">Coinmarket Cap Clone</a></li>
+                <li><a class="dropdown-item" href="icobench-clone.html">ICO Bench - Clone</a></li>
                 <li><a class="dropdown-item coming disabled" href="#">CryptoLoan Platform</a></li>
                 <li><a class="dropdown-item coming disabled" href="#">Cryptocurrency Exchange Software</a></li>
             </ul>
