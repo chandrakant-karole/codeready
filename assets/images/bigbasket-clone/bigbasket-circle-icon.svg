@@ -1,0 +1,245 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="620" viewBox="0 0 600 620">
+<style>
+#Group_3, #Group_7, #Group_1  {
+	-webkit-animation: shake-horizontal 8s cubic-bezier(0.455, 0.030, 0.515, 0.955) infinite both;
+	        animation: shake-horizontal 8s cubic-bezier(0.455, 0.030, 0.515, 0.955) infinite both;
+}
+@-webkit-keyframes shake-horizontal {
+  0%,
+  100% {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+  }
+  10%,
+  30%,
+  50%,
+  70% {
+    -webkit-transform: translateX(-10px);
+            transform: translateX(-10px);
+  }
+  20%,
+  40%,
+  60% {
+    -webkit-transform: translateX(10px);
+            transform: translateX(10px);
+  }
+  80% {
+    -webkit-transform: translateX(8px);
+            transform: translateX(8px);
+  }
+  90% {
+    -webkit-transform: translateX(-8px);
+            transform: translateX(-8px);
+  }
+}
+@keyframes shake-horizontal {
+  0%,
+  100% {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+  }
+  10%,
+  30%,
+  50%,
+  70% {
+    -webkit-transform: translateX(-10px);
+            transform: translateX(-10px);
+  }
+  20%,
+  40%,
+  60% {
+    -webkit-transform: translateX(10px);
+            transform: translateX(10px);
+  }
+  80% {
+    -webkit-transform: translateX(8px);
+            transform: translateX(8px);
+  }
+  90% {
+    -webkit-transform: translateX(-8px);
+            transform: translateX(-8px);
+  }
+}
+
+</style>
+  <defs>
+    <filter id="Ellipse_5" x="10" y="304" width="90" height="90" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_4" x="42" y="93" width="90" height="90" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_10" x="311" y="14" width="90" height="90" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_7" x="452" y="444" width="90" height="90" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_11" x="254" y="177" width="64" height="64" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_6" x="117" y="489" width="68" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_8" x="261" y="438" width="78" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_9" x="502" y="151" width="90" height="90" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_12" x="447" y="297" width="68" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="cart_icon1" x="239.423" y="275.71" width="105.154" height="85.579" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-bigbasket-circle-icon">
+      <rect width="600" height="620"/>
+    </clipPath>
+  </defs>
+  <g id="bigbasket-circle-icon" clip-path="url(#clip-bigbasket-circle-icon)">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(33 43)" fill="none" stroke="#f0f0f0" stroke-width="1">
+      <circle cx="267" cy="267" r="267" stroke="none"/>
+      <circle cx="267" cy="267" r="266.5" fill="none"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(121.695 130.781)" fill="none" stroke="#f0f0f0" stroke-width="1">
+      <circle cx="177.39" cy="177.39" r="177.39" stroke="none"/>
+      <circle cx="177.39" cy="177.39" r="176.89" fill="none"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(196.675 205.76)" fill="none" stroke="#f0f0f0" stroke-width="1">
+      <circle cx="102.411" cy="102.411" r="102.411" stroke="none"/>
+      <circle cx="102.411" cy="102.411" r="101.911" fill="none"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_5)">
+      <circle id="Ellipse_5-2" data-name="Ellipse 5" cx="36" cy="36" r="36" transform="translate(19 310)" fill="#fff"/>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(-17)">
+      <g transform="matrix(1, 0, 0, 1, 17, 0)" filter="url(#Ellipse_4)">
+        <circle id="Ellipse_4-2" data-name="Ellipse 4" cx="36" cy="36" r="36" transform="translate(51 99)" fill="#fff"/>
+      </g>
+      <g id="web_bigbasket" transform="translate(78.8 108.8)">
+        <path id="Path_1" data-name="Path 1" d="M24.2,5.2a19,19,0,0,0,0,38,22.471,22.471,0,0,0,5.2-.7V39.1a7.449,7.449,0,0,1-4.3,2.2V34.5h4.3V32.8H25.1V25h4.3V23.3H25.1V15.5h8.1A24.409,24.409,0,0,1,34.6,23l.9.9.9.8.4.3h4.7a26.291,26.291,0,0,1-.6,3.9l1.4,1.3a17.579,17.579,0,0,0,1-6A19.273,19.273,0,0,0,24.2,5.2ZM23.3,7v6.8H15.9c.3-.7.7-1.4,1-2C18.8,9.1,20.9,7.4,23.3,7Zm1.8,0c3,.4,5.7,3,7.4,6.8H25.1Zm5.6,1.3A18.371,18.371,0,0,1,38,13.9H34.3A15.486,15.486,0,0,0,30.7,8.3Zm-13.1,0A19.865,19.865,0,0,0,15.4,11c-.5.9-1,1.9-1.5,2.9H10.3A18.865,18.865,0,0,1,17.6,8.3ZM9.3,15.6h4.1a27.086,27.086,0,0,0-1.3,7.8H7A15.821,15.821,0,0,1,9.3,15.6Zm5.9,0h8.1v7.8H13.8A30.12,30.12,0,0,1,15.2,15.6Zm19.8,0h4.2a15.741,15.741,0,0,1,2.2,7.8H36.2A27.143,27.143,0,0,0,35,15.6ZM7,25.1h5.2a27.685,27.685,0,0,0,1.3,7.8H9.3A16.463,16.463,0,0,1,7,25.1Zm6.9,0h9.5v7.8H15.3A24.543,24.543,0,0,1,13.9,25.1Zm18.9,0a.967.967,0,0,0-.9.9V42.7a.891.891,0,0,0,.5.8.651.651,0,0,0,.9-.2l2.6-2.6,2.2,4.7a.841.841,0,0,0,1.1.4l3.4-1.6a.841.841,0,0,0,.4-1.1l-2.2-4.9h4.1a1.126,1.126,0,0,0,.8-.5.651.651,0,0,0-.2-.9L33.4,25.4A.713.713,0,0,0,32.8,25.1Zm.9,2.8,9.1,8.5H39.7c-.2,0-.3,0-.3.1l-.1.1a.841.841,0,0,0-.4,1.1L41.3,43l-1.7.8-2.3-5.1c-.1-.3-.3-.4-.6-.5a.67.67,0,0,0-.8.3l-2.1,2.1V27.9ZM10.4,34.6H14a15.934,15.934,0,0,0,1.5,2.9,14.422,14.422,0,0,0,2.2,2.7A17.512,17.512,0,0,1,10.4,34.6Zm5.5,0h7.4v6.8c-2.4-.3-4.6-2.1-6.3-4.8C16.6,35.9,16.3,35.3,15.9,34.6Z" fill="#a5cd39"/>
+      </g>
+    </g>
+    <g id="Group_2" data-name="Group 2">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_10)">
+        <circle id="Ellipse_10-2" data-name="Ellipse 10" cx="36" cy="36" r="36" transform="translate(320 20)" fill="#fff"/>
+      </g>
+      <g id="android_customer_bigbasket" transform="translate(329 27.337)">
+        <g id="surface1">
+          <path id="Path_2" data-name="Path 2" d="M39.2,22.4a5.335,5.335,0,0,0-5.3,5.3v3.2A5.257,5.257,0,0,0,36,35.1v2.4c0,.1,0,.1-.1.2a6.818,6.818,0,0,1-.7.5c-.6.3-1.6.7-2.5,1.1A7.86,7.86,0,0,0,30,41.2a4.76,4.76,0,0,0-1.3,3.4v.5H49.8v-.5a4.76,4.76,0,0,0-1.3-3.4,12.047,12.047,0,0,0-2.7-1.9c-.9-.5-1.9-.8-2.5-1.1-.3-.2-.6-.3-.7-.4a.31.31,0,0,1-.1-.2V35a5.257,5.257,0,0,0,2.1-4.2V27.6A5.4,5.4,0,0,0,39.2,22.4Zm0,1.1a4.161,4.161,0,0,1,4.2,4.2v3.2a4.17,4.17,0,0,1-1.9,3.5l-.2.2v2.9a1.231,1.231,0,0,0,.5,1,3.328,3.328,0,0,0,1,.6c.7.4,1.6.7,2.5,1.1a6.741,6.741,0,0,1,2.4,1.6,3.978,3.978,0,0,1,.9,2.2H29.9a3.978,3.978,0,0,1,.9-2.2,6.741,6.741,0,0,1,2.4-1.6c.9-.4,1.8-.8,2.5-1.1a8.794,8.794,0,0,0,1-.6,1.231,1.231,0,0,0,.5-1V34.6l-.2-.2a4.307,4.307,0,0,1-1.9-3.5V27.7A4.02,4.02,0,0,1,39.2,23.5Z" fill="#a5cd39"/>
+        </g>
+        <g id="surface1_1_">
+          <path id="Path_3" data-name="Path 3" d="M12.6,4.7h0a1.024,1.024,0,0,0-.6.5.616.616,0,0,0,.1.7l1.6,2.4a9.886,9.886,0,0,0-5.2,6.8h0v.1h0v1.2A2.6,2.6,0,0,0,7,16a3.009,3.009,0,0,0-3,3v9.1a3.009,3.009,0,0,0,3,3,3.313,3.313,0,0,0,1.5-.4v1.9a2.326,2.326,0,0,0,2.3,2.3h.8v4.5a3.009,3.009,0,0,0,3,3,3.076,3.076,0,0,0,3-3V34.9h3v4.5a3.009,3.009,0,0,0,3,3,3.076,3.076,0,0,0,3-3V34.9h.8a2.326,2.326,0,0,0,2.3-2.3V30.7a2.6,2.6,0,0,0,1.5.4,3.009,3.009,0,0,0,3-3V19a3.009,3.009,0,0,0-3-3,3.313,3.313,0,0,0-1.5.4V15.2h0a9.65,9.65,0,0,0-5.1-6.9l1.6-2.4a.75.75,0,0,0,0-.9.67.67,0,0,0-.8-.3.85.85,0,0,0-.5.3L23.1,7.6a12.9,12.9,0,0,0-4-.7,10.525,10.525,0,0,0-4,.7L13.3,5A.779.779,0,0,0,12.6,4.7Zm6.5,3.8a10.065,10.065,0,0,1,3.9.8h.1a8.046,8.046,0,0,1,4.7,5.2H10.4A8.693,8.693,0,0,1,15,9.3c.1,0,.1,0,.1-.1A12.9,12.9,0,0,1,19.1,8.5ZM15,10.8a1.1,1.1,0,1,0,1.1,1.1A1.11,1.11,0,0,0,15,10.8Zm8.3,0a1.1,1.1,0,1,0,1.1,1.1A1.11,1.11,0,0,0,23.3,10.8ZM10.1,16.1H28.2V32.7a.789.789,0,0,1-.8.8H10.9a.789.789,0,0,1-.8-.8V16.1ZM7,17.6a1.538,1.538,0,0,1,1.5,1.5v9.1A1.538,1.538,0,0,1,7,29.7a1.538,1.538,0,0,1-1.5-1.5V19.1A1.473,1.473,0,0,1,7,17.6Zm24.2,0a1.538,1.538,0,0,1,1.5,1.5v9.1a1.5,1.5,0,0,1-3,0V19.1A1.417,1.417,0,0,1,31.2,17.6ZM13.1,34.9h3v4.5a1.5,1.5,0,0,1-3,0Zm9,0h3v4.5a1.5,1.5,0,0,1-3,0Z" fill="#a5cd39"/>
+        </g>
+      </g>
+    </g>
+    <g id="ios_customer_bigbasket" transform="translate(31.1 320.9)">
+      <path id="Path_4" data-name="Path 4" d="M9.3,5.1A8.451,8.451,0,0,0,.9,13.5v14a8.451,8.451,0,0,0,8.4,8.4h14a8.451,8.451,0,0,0,8.4-8.4v-14a8.451,8.451,0,0,0-8.4-8.4H9.3Zm0,1.4h14a6.957,6.957,0,0,1,7,7v14a6.957,6.957,0,0,1-7,7H9.3a6.957,6.957,0,0,1-7-7v-14A6.957,6.957,0,0,1,9.3,6.5ZM6.9,15.6a.882.882,0,0,0-.9.8.817.817,0,0,0,.9.8.806.806,0,1,0,0-1.6Zm7.3.4c-2.5,0-4.2,1.8-4.2,4.7s1.6,4.7,4.2,4.7,4.1-1.8,4.1-4.7C18.4,17.8,16.8,16,14.2,16Zm9.1,0c-1.9,0-3.2,1.1-3.2,2.6,0,1.3.7,2.1,2.3,2.5l1.1.3c1.2.3,1.7.7,1.7,1.4,0,.8-.8,1.4-1.9,1.4-1.2,0-2-.5-2.1-1.4H19.8c.1,1.6,1.4,2.6,3.4,2.6,2.1,0,3.4-1.1,3.4-2.8,0-1.3-.8-2.1-2.6-2.5l-1-.2c-1.2-.3-1.6-.6-1.6-1.3,0-.8.7-1.3,1.8-1.3a1.792,1.792,0,0,1,1.9,1.3h1.3C26.4,17.1,25.1,16,23.3,16Zm-9.1,1.3c1.7,0,2.7,1.3,2.7,3.4s-1,3.4-2.7,3.4-2.7-1.3-2.7-3.4S12.6,17.3,14.2,17.3ZM6.3,18.4v6.7H7.6V18.4H6.3Z" fill="#a5cd39"/>
+      <g id="surface1-2" data-name="surface1">
+        <path id="Path_5" data-name="Path 5" d="M37.2,22.4a5.335,5.335,0,0,0-5.3,5.3v3.2A5.257,5.257,0,0,0,34,35.1v2.4c0,.1,0,.1-.1.2a6.818,6.818,0,0,1-.7.5c-.6.3-1.6.7-2.5,1.1A7.86,7.86,0,0,0,28,41.2a4.76,4.76,0,0,0-1.3,3.4V45H47.8v-.5a4.76,4.76,0,0,0-1.3-3.4,12.047,12.047,0,0,0-2.7-1.9c-1-.5-1.9-.8-2.5-1.1-.3-.2-.6-.3-.7-.4a.31.31,0,0,1-.1-.2V35a5.257,5.257,0,0,0,2.1-4.2V27.6A5.471,5.471,0,0,0,37.2,22.4Zm0,1a4.161,4.161,0,0,1,4.2,4.2v3.2a4.17,4.17,0,0,1-1.9,3.5l-.2.2v2.9a1.231,1.231,0,0,0,.5,1,3.328,3.328,0,0,0,1,.6c.7.4,1.6.7,2.5,1.1a6.741,6.741,0,0,1,2.4,1.6,3.978,3.978,0,0,1,.9,2.2H27.8a3.978,3.978,0,0,1,.9-2.2,6.741,6.741,0,0,1,2.4-1.6c.9-.4,1.8-.8,2.5-1.1a8.794,8.794,0,0,0,1-.6,1.231,1.231,0,0,0,.5-1V34.5l-.2-.2A4.307,4.307,0,0,1,33,30.8V27.6A4.1,4.1,0,0,1,37.2,23.4Z" fill="#a5cd39"/>
+      </g>
+    </g>
+    <g id="Group_4" data-name="Group 4">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_7)">
+        <circle id="Ellipse_7-2" data-name="Ellipse 7" cx="36" cy="36" r="36" transform="translate(461 450)" fill="#fff"/>
+      </g>
+      <g id="delivery_android_bigbasket" transform="translate(474 459.337)">
+        <g id="surface1_1_2" data-name="surface1_1_">
+          <path id="Path_6" data-name="Path 6" d="M10.6,4.7h0a1.024,1.024,0,0,0-.6.5.616.616,0,0,0,.1.7l1.6,2.4a9.886,9.886,0,0,0-5.2,6.8h0v.1h0v1.2A2.6,2.6,0,0,0,5,16a3.009,3.009,0,0,0-3,3v9.1a3.009,3.009,0,0,0,3,3,3.313,3.313,0,0,0,1.5-.4v1.9a2.326,2.326,0,0,0,2.3,2.3h.8v4.5a3.009,3.009,0,0,0,3,3,3.076,3.076,0,0,0,3-3V34.9h3v4.5a3.009,3.009,0,0,0,3,3,3.076,3.076,0,0,0,3-3V34.9h.8a2.326,2.326,0,0,0,2.3-2.3V30.7a2.6,2.6,0,0,0,1.5.4,3.009,3.009,0,0,0,3-3V19a3.009,3.009,0,0,0-3-3,3.313,3.313,0,0,0-1.5.4V15.2h0a9.65,9.65,0,0,0-5.1-6.9l1.6-2.4a.75.75,0,0,0,0-.9.67.67,0,0,0-.8-.3.85.85,0,0,0-.5.3L21.1,7.6a12.9,12.9,0,0,0-4-.7,10.525,10.525,0,0,0-4,.7L11.3,5A.779.779,0,0,0,10.6,4.7Zm6.5,3.8a10.065,10.065,0,0,1,3.9.8h.1a8.046,8.046,0,0,1,4.7,5.2H8.4A8.693,8.693,0,0,1,13,9.3c.1,0,.1,0,.1-.1A12.9,12.9,0,0,1,17.1,8.5ZM13,10.8a1.1,1.1,0,1,0,1.1,1.1A1.11,1.11,0,0,0,13,10.8Zm8.3,0a1.1,1.1,0,1,0,1.1,1.1A1.11,1.11,0,0,0,21.3,10.8ZM8.1,16.1H26.2V32.7a.789.789,0,0,1-.8.8H8.8a.789.789,0,0,1-.8-.8V16.1ZM5,17.6a1.538,1.538,0,0,1,1.5,1.5v9.1A1.538,1.538,0,0,1,5,29.7a1.538,1.538,0,0,1-1.5-1.5V19.1A1.473,1.473,0,0,1,5,17.6Zm24.2,0a1.538,1.538,0,0,1,1.5,1.5v9.1a1.5,1.5,0,0,1-3,0V19.1A1.417,1.417,0,0,1,29.2,17.6ZM11.1,34.9h3v4.5a1.5,1.5,0,0,1-3,0Zm9,0h3v4.5a1.5,1.5,0,0,1-3,0Z" fill="#a5cd39"/>
+        </g>
+        <g id="surface1_2_">
+          <path id="Path_7" data-name="Path 7" d="M23.6,25.6v1H38.1a.642.642,0,0,1,.5.5v14H33.4a3.047,3.047,0,0,0-3.1-2.6,3.2,3.2,0,0,0-3.1,2.6H25.1a.472.472,0,0,1-.5-.5V36h-1v4.6a1.538,1.538,0,0,0,1.5,1.5h2.1a3.047,3.047,0,0,0,3.1,2.6,3.2,3.2,0,0,0,3.1-2.6h7.8a3.047,3.047,0,0,0,3.1,2.6,3.121,3.121,0,0,0,3.1-2.6H48a1.721,1.721,0,0,0,1.6-1.6v-5a3.313,3.313,0,0,0-.4-1.5,7.234,7.234,0,0,0-.4-.7h0l-2.1-2.8h0a2.965,2.965,0,0,0-2.2-1.3H40.4a.749.749,0,0,0-.5.1V27.1a1.538,1.538,0,0,0-1.5-1.5Zm0,2.1v1h9.3v-1Zm0,2v1h7.7v-1Zm16.6.5h2.1v4.6a1.721,1.721,0,0,0,1.6,1.6h4.6v4.1c0,.1-.1.2-.2.3a1.439,1.439,0,0,1-.3.2h-.6a3.047,3.047,0,0,0-3.1-2.6A3.121,3.121,0,0,0,41.2,41H39.6V30.8c0-.1.1-.2.2-.3A.536.536,0,0,1,40.2,30.2Zm3.1,0h1c.4,0,1,.5,1.4.9l2.1,2.8h0a5.2,5.2,0,0,0,.3.5,2.92,2.92,0,0,1,.2.9H43.7c-.1,0-.2-.1-.3-.2a1.439,1.439,0,0,1-.2-.3V30.2ZM23.6,31.8v1h6.2v-1Zm0,2.1v1h4.6v-1Zm6.8,5.6a2.112,2.112,0,0,1,2.1,2.1,2.051,2.051,0,0,1-2.1,2.1,2.112,2.112,0,0,1-2.1-2.1A2.051,2.051,0,0,1,30.4,39.5Zm13.9,0a2.112,2.112,0,0,1,2.1,2.1,2.051,2.051,0,0,1-2.1,2.1,2.1,2.1,0,1,1,0-4.2Z" fill="#a5cd39"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_8" data-name="Group 8">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_11)">
+        <circle id="Ellipse_11-2" data-name="Ellipse 11" cx="23" cy="23" r="23" transform="translate(263 183)" fill="#fff"/>
+      </g>
+      <g id="delivery_ios_bigbasket" transform="translate(269.1 187.058)">
+        <path id="Path_8" data-name="Path 8" d="M6.727,5.1A5.862,5.862,0,0,0,.9,10.927v9.711a5.862,5.862,0,0,0,5.827,5.827h9.711a5.862,5.862,0,0,0,5.827-5.827V10.927A5.862,5.862,0,0,0,16.438,5.1H6.727Zm0,.971h9.711a4.826,4.826,0,0,1,4.856,4.856v9.711a4.826,4.826,0,0,1-4.856,4.856H6.727a4.826,4.826,0,0,1-4.856-4.856V10.927A4.826,4.826,0,0,1,6.727,6.071ZM5.062,12.383a.612.612,0,0,0-.624.555.567.567,0,0,0,.624.555.559.559,0,1,0,0-1.11Zm5.064.277c-1.734,0-2.913,1.249-2.913,3.26s1.11,3.26,2.913,3.26,2.844-1.249,2.844-3.26C13.039,13.909,11.929,12.661,10.126,12.661Zm6.312,0c-1.318,0-2.22.763-2.22,1.8,0,.9.486,1.457,1.6,1.734l.763.208c.832.208,1.179.486,1.179.971,0,.555-.555.971-1.318.971-.832,0-1.387-.347-1.457-.971H14.01c.069,1.11.971,1.8,2.358,1.8,1.457,0,2.358-.763,2.358-1.942,0-.9-.555-1.457-1.8-1.734l-.694-.139c-.832-.208-1.11-.416-1.11-.9,0-.555.486-.9,1.249-.9a1.243,1.243,0,0,1,1.318.9h.9A1.935,1.935,0,0,0,16.438,12.661Zm-6.312.9c1.179,0,1.873.9,1.873,2.358s-.694,2.358-1.873,2.358-1.873-.9-1.873-2.358S9.016,13.563,10.126,13.563Zm-5.48.763v4.647h.9V14.326h-.9Z" fill="#a5cd39"/>
+        <g id="surface1_1_3" data-name="surface1_1_" transform="translate(14.634 19.736)">
+          <path id="Path_9" data-name="Path 9" d="M20.7,26.2v.694H30.758a.446.446,0,0,1,.347.347v9.711H27.5a2.113,2.113,0,0,0-2.15-1.8,2.221,2.221,0,0,0-2.15,1.8H21.74a.328.328,0,0,1-.347-.347V33.414H20.7V36.6a1.067,1.067,0,0,0,1.04,1.04H23.2a2.113,2.113,0,0,0,2.15,1.8,2.221,2.221,0,0,0,2.15-1.8h5.411a2.113,2.113,0,0,0,2.15,1.8,2.221,2.221,0,0,0,2.15-1.8h.347a1.194,1.194,0,0,0,1.11-1.11V33.067a2.3,2.3,0,0,0-.277-1.04,1.155,1.155,0,0,0-.347-.416h0l-1.457-1.942h0a2.056,2.056,0,0,0-1.526-.9H32.215a.52.52,0,0,0-.347.069V27.31a1.067,1.067,0,0,0-1.04-1.04H20.7Zm0,1.387v.694h6.451v-.694Zm0,1.457v.694h5.341v-.694Zm11.445.347H33.6v3.191a1.194,1.194,0,0,0,1.11,1.11H37.9v2.844c0,.069-.069.139-.139.208a1,1,0,0,1-.208.139H37.14a2.113,2.113,0,0,0-2.15-1.8,2.221,2.221,0,0,0-2.15,1.8h-1.11V29.738c0-.069.069-.139.139-.208C32.007,29.46,32.076,29.391,32.145,29.391Zm2.15,0h.694c.277,0,.694.347.971.624l1.457,1.942h0a3.6,3.6,0,0,0,.208.347,2.025,2.025,0,0,1,.139.624H34.573c-.069,0-.139-.069-.208-.139a1,1,0,0,1-.139-.208V29.391ZM20.7,30.5v.694H25V30.5Zm0,1.387v.694h3.191v-.694Zm4.647,3.954A1.457,1.457,0,1,1,23.891,37.3,1.465,1.465,0,0,1,25.347,35.842Zm9.711,0A1.457,1.457,0,1,1,33.6,37.3,1.422,1.422,0,0,1,35.059,35.842Z" transform="translate(-20.7 -26.2)" fill="#a5cd39"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(-3)">
+      <g transform="matrix(1, 0, 0, 1, 3, 0)" filter="url(#Ellipse_6)">
+        <circle id="Ellipse_6-2" data-name="Ellipse 6" cx="25" cy="25" r="25" transform="translate(126 495)" fill="#fff"/>
+      </g>
+      <g id="partner_android_bigbasket" transform="translate(138.394 502.375)">
+        <g id="surface1_1_4" data-name="surface1_1_" transform="translate(2 4.663)">
+          <path id="Path_10" data-name="Path 10" d="M7.118,4.685h0a.609.609,0,0,0-.357.3.367.367,0,0,0,.06.417l.952,1.428a5.883,5.883,0,0,0-3.094,4.046h0v.06h0v.714a1.55,1.55,0,0,0-.893-.238A1.79,1.79,0,0,0,2,13.194V18.61a1.79,1.79,0,0,0,1.785,1.785,1.971,1.971,0,0,0,.893-.238v1.131a1.384,1.384,0,0,0,1.369,1.369h.476v2.678a1.79,1.79,0,0,0,1.785,1.785,1.83,1.83,0,0,0,1.785-1.785V22.656h1.785v2.678a1.79,1.79,0,0,0,1.785,1.785,1.83,1.83,0,0,0,1.785-1.785V22.656h.476a1.384,1.384,0,0,0,1.369-1.369V20.157a1.55,1.55,0,0,0,.893.238,1.79,1.79,0,0,0,1.785-1.785V13.194a1.79,1.79,0,0,0-1.785-1.785,1.971,1.971,0,0,0-.893.238v-.714h0a5.742,5.742,0,0,0-3.035-4.106L15.211,5.4a.446.446,0,0,0,0-.536.4.4,0,0,0-.476-.179.506.506,0,0,0-.3.179L13.366,6.411a7.677,7.677,0,0,0-2.38-.417,6.263,6.263,0,0,0-2.38.417L7.534,4.863A.463.463,0,0,0,7.118,4.685Zm3.868,2.261a5.989,5.989,0,0,1,2.321.476h.06a4.788,4.788,0,0,1,2.8,3.094H5.808A5.173,5.173,0,0,1,8.546,7.422c.06,0,.06,0,.06-.06A7.677,7.677,0,0,1,10.986,6.946ZM8.546,8.315a.655.655,0,1,0,.655.655A.66.66,0,0,0,8.546,8.315Zm4.939,0a.655.655,0,1,0,.655.655A.66.66,0,0,0,13.485,8.315ZM5.63,11.469H16.4v9.878a.469.469,0,0,1-.476.476H6.046a.469.469,0,0,1-.476-.476V11.469Zm-1.845.893a.915.915,0,0,1,.893.893v5.415a.915.915,0,0,1-.893.893.915.915,0,0,1-.893-.893V13.254A.876.876,0,0,1,3.785,12.361Zm14.4,0a.915.915,0,0,1,.893.893v5.415a.893.893,0,1,1-1.785,0V13.254A.843.843,0,0,1,18.186,12.361ZM7.415,22.656H9.2v2.678a.893.893,0,1,1-1.785,0Zm5.356,0h1.785v2.678a.893.893,0,0,1-1.785,0Z" transform="translate(-2 -4.663)" fill="#a5cd39"/>
+        </g>
+        <path id="Path_11" data-name="Path 11" d="M32.942,31.8H29.074a.788.788,0,0,0-.774.774V41.44a.788.788,0,0,0,.774.774H39.487a.788.788,0,0,0,.774-.774V32.574a.788.788,0,0,0-.774-.774Zm-3.868.536H32.7v9.343h-3.63a.256.256,0,0,1-.238-.238V32.574A.218.218,0,0,1,29.074,32.336Zm4.166,0h6.248a.256.256,0,0,1,.238.238V41.44a.256.256,0,0,1-.238.238H33.239Zm-3.63,1.012a.238.238,0,1,0,.238.238A.256.256,0,0,0,29.609,33.347Zm1.012,0a.238.238,0,0,0,0,.476H31.93a.238.238,0,0,0,0-.476H30.621Zm3.63.238a.256.256,0,0,0-.238.238.219.219,0,0,0,.06.179L35.2,35.132l-1.131,1.131a.252.252,0,0,0,.357.357h0l1.309-1.309a.223.223,0,0,0,0-.357L34.429,33.7C34.429,33.645,34.31,33.585,34.251,33.585Zm-4.642.833a.238.238,0,1,0,.238.238A.256.256,0,0,0,29.609,34.418Zm1.012,0a.238.238,0,0,0,0,.476H31.93a.238.238,0,0,0,0-.476H30.621ZM29.609,35.43a.238.238,0,1,0,.238.238A.256.256,0,0,0,29.609,35.43Zm1.012,0a.238.238,0,0,0,0,.476H31.93a.238.238,0,0,0,0-.476H30.621ZM29.609,36.5a.238.238,0,1,0,.238.238A.218.218,0,0,0,29.609,36.5Zm1.012,0a.238.238,0,0,0,0,.476H31.93a.238.238,0,1,0,0-.476H30.621Z" transform="translate(-10.65 -10.989)" fill="#a5cd39"/>
+      </g>
+    </g>
+    <g id="Group_7" data-name="Group 7" transform="translate(0 5)">
+      <g transform="matrix(1, 0, 0, 1, 0, -5)" filter="url(#Ellipse_8)">
+        <circle id="Ellipse_8-2" data-name="Ellipse 8" cx="30" cy="30" r="30" transform="translate(270 444)" fill="#fff"/>
+      </g>
+      <g id="partner_ios_bigbasket" transform="translate(280.635 446.938)">
+        <path id="Path_12" data-name="Path 12" d="M7.359,5.1A6.5,6.5,0,0,0,.9,11.559V22.323a6.5,6.5,0,0,0,6.459,6.459H18.123a6.5,6.5,0,0,0,6.459-6.459V11.559A6.5,6.5,0,0,0,18.123,5.1H7.359Zm0,1.076H18.123a5.349,5.349,0,0,1,5.382,5.382V22.323a5.349,5.349,0,0,1-5.382,5.382H7.359a5.349,5.349,0,0,1-5.382-5.382V11.559A5.349,5.349,0,0,1,7.359,6.176Zm-1.845,7a.678.678,0,0,0-.692.615.628.628,0,0,0,.692.615.619.619,0,1,0,0-1.23Zm5.613.308C9.2,13.481,7.9,14.865,7.9,17.095s1.23,3.614,3.229,3.614,3.152-1.384,3.152-3.614C14.355,14.865,13.125,13.481,11.126,13.481Zm7,0c-1.461,0-2.46.846-2.46,2,0,1,.538,1.615,1.768,1.922l.846.231c.923.231,1.307.538,1.307,1.076,0,.615-.615,1.076-1.461,1.076-.923,0-1.538-.384-1.615-1.076H15.432c.077,1.23,1.076,2,2.614,2,1.615,0,2.614-.846,2.614-2.153,0-1-.615-1.615-2-1.922l-.769-.154c-.923-.231-1.23-.461-1.23-1,0-.615.538-1,1.384-1a1.378,1.378,0,0,1,1.461,1h1A2.144,2.144,0,0,0,18.123,13.481Zm-7,1c1.307,0,2.076,1,2.076,2.614s-.769,2.614-2.076,2.614-2.076-1-2.076-2.614S9.9,14.48,11.126,14.48Zm-6.074.846v5.152h1V15.326h-1Z" transform="translate(0)" fill="#a5cd39"/>
+        <path id="Path_13" data-name="Path 13" d="M34.7,31.2h-5a1.018,1.018,0,0,0-1,1V43.656a1.018,1.018,0,0,0,1,1H43.155a1.018,1.018,0,0,0,1-1V32.2a1.018,1.018,0,0,0-1-1Zm-5,.692h4.69V43.963H29.7a.331.331,0,0,1-.308-.308V32.2C29.315,32.046,29.469,31.892,29.7,31.892Zm5.382,0h8.073a.331.331,0,0,1,.308.308V43.656a.331.331,0,0,1-.308.308H35.082Zm-4.69,1.384a.308.308,0,1,0,.308.308A.282.282,0,0,0,30.392,33.276Zm1.307,0a.308.308,0,1,0,0,.615H33.39a.308.308,0,0,0,0-.615H31.7Zm4.69.308a.331.331,0,0,0-.308.308.282.282,0,0,0,.077.231l1.461,1.461-1.461,1.461a.326.326,0,0,0,.461.461h0l1.692-1.692a.288.288,0,0,0,0-.461L36.619,33.66C36.619,33.584,36.466,33.584,36.389,33.584Zm-6,1a.308.308,0,1,0,.308.308A.331.331,0,0,0,30.392,34.583Zm1.307,0a.308.308,0,1,0,0,.615H33.39a.308.308,0,0,0,0-.615H31.7ZM30.392,35.89a.308.308,0,1,0,.308.308A.331.331,0,0,0,30.392,35.89Zm1.307,0a.308.308,0,0,0,0,.615H33.39a.308.308,0,0,0,0-.615H31.7Zm-1.307,1.384a.308.308,0,1,0,.308.308A.331.331,0,0,0,30.392,37.274Zm1.307,0a.308.308,0,0,0,0,.615H33.39a.308.308,0,0,0,0-.615H31.7Z" transform="translate(-6.425 -6.032)" fill="#a5cd39"/>
+      </g>
+    </g>
+    <g id="Group_1" data-name="Group 1">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_9)">
+        <circle id="Ellipse_9-2" data-name="Ellipse 9" cx="36" cy="36" r="36" transform="translate(511 157)" fill="#fff"/>
+      </g>
+      <g id="admin_bigbasket" transform="translate(522.119 168.1)">
+        <path id="Path_14" data-name="Path 14" d="M21.3,5.9a.858.858,0,0,0-.7.6l-.7,4.6a20.035,20.035,0,0,0-2.6,1L13.6,9.4a.769.769,0,0,0-1,.1l-3,3a.769.769,0,0,0-.1,1l2.6,3.8A20.291,20.291,0,0,0,11,19.9l-4.5.7c-.4.1-.7.4-.6.8v4.2a.669.669,0,0,0,.6.7l4.6.8a27.729,27.729,0,0,0,1,2.6L9.4,33.4a.769.769,0,0,0,.1,1l3,3a.769.769,0,0,0,1,.1l3.7-2.6a11.663,11.663,0,0,0,2.6,1l.8,4.6c.1.4.4.7.8.6h4.4v2.3a.789.789,0,0,0,.8.8H43.4a.789.789,0,0,0,.8-.8V30.2A2.22,2.22,0,0,0,42,28H35.6c.1-.3.2-.6.3-1l4.5-.8a.73.73,0,0,0,.6-.7V21.3a.871.871,0,0,0-.6-.8l-4.6-.7a18.611,18.611,0,0,0-1-2.5l2.7-3.8a.769.769,0,0,0-.1-1l-3-3a.769.769,0,0,0-1-.1l-3.7,2.7a11.663,11.663,0,0,0-2.6-1l-.8-4.6a.73.73,0,0,0-.7-.6H21.3ZM22,7.4h2.9l.8,4.3a1.024,1.024,0,0,0,.5.6,10.7,10.7,0,0,1,3.1,1.3.762.762,0,0,0,.8,0L33.7,11l2.1,2.1-2.5,3.6a.608.608,0,0,0,0,.8,12,12,0,0,1,1.3,3.1.9.9,0,0,0,.6.6l4.4.7v2.9l-4.4.8c-.3,0-.5.3-.6.6-.1.4-.4,1.2-.6,1.8H28a6.511,6.511,0,0,0,2-4.6,6.4,6.4,0,1,0-6.4,6.4,6.963,6.963,0,0,0,2.5-.5,2.92,2.92,0,0,0-.2.9v5.1L25,39.5H22l-.7-4.3c0-.3-.3-.5-.6-.6a10.7,10.7,0,0,1-3.1-1.3.762.762,0,0,0-.8,0l-3.6,2.5-2.1-2.1,2.5-3.6a.608.608,0,0,0,0-.8,12,12,0,0,1-1.3-3.1.9.9,0,0,0-.6-.6l-4.3-.8V22l4.3-.7c.3,0,.5-.3.6-.6a10.7,10.7,0,0,1,1.3-3.1.762.762,0,0,0,0-.8l-2.5-3.6,2.1-2.1,3.6,2.5a.608.608,0,0,0,.8,0,12,12,0,0,1,3.1-1.3.9.9,0,0,0,.6-.6Zm1.5,11.2a4.8,4.8,0,0,1,4.8,4.8,4.8,4.8,0,1,1-9.6,0A4.8,4.8,0,0,1,23.5,18.6Zm4.4,11H42a.576.576,0,0,1,.6.6v.1H27.3v-.1A.645.645,0,0,1,27.9,29.6Zm-.6,2.3H42.6V42.6H27.3V31.9Zm6.9.4-.5.5-2.6,2.6-1-.8-.6-.5-1,1.2.6.5,1.5,1.3.5.5L34.7,34l.5-.5Zm0,3.8-.5.5-2.6,2.6-1-.8-.6-.5-1,1.2.6.5,1.5,1.3.5.5,3.6-3.6.5-.5Z" fill="#a5cd39"/>
+      </g>
+    </g>
+    <g id="Group_6" data-name="Group 6">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_12)">
+        <circle id="Ellipse_12-2" data-name="Ellipse 12" cx="25" cy="25" r="25" transform="translate(456 303)" fill="#fff"/>
+      </g>
+      <path id="dispatcher_bigbasket" d="M20.278,2a2.384,2.384,0,0,0-2.325,2.325A2.258,2.258,0,0,0,19.5,6.5V9.752a.775.775,0,1,0,1.55,0h0V6.5a2.258,2.258,0,0,0,1.55-2.17A2.384,2.384,0,0,0,20.278,2Zm0,1.55a.732.732,0,0,1,.775.775.765.765,0,0,1-.7.775h-.078a.777.777,0,0,1-.775-.775A.732.732,0,0,1,20.278,3.55ZM6.325,8.976A2.384,2.384,0,0,0,4,11.3a2.384,2.384,0,0,0,2.325,2.325A2.447,2.447,0,0,0,7.8,13.085l5.891,3.488a.834.834,0,0,0,1.085-.233.853.853,0,0,0-.233-1.085L8.651,11.767c0-.155.078-.31.078-.465A2.511,2.511,0,0,0,6.325,8.976Zm27.906,0A2.384,2.384,0,0,0,31.906,11.3a.983.983,0,0,0,.078.465l-5.891,3.488a.785.785,0,1,0,.853,1.318h0l5.891-3.488a2.447,2.447,0,0,0,1.473.543A2.384,2.384,0,0,0,36.634,11.3,2.454,2.454,0,0,0,34.231,8.976ZM6.325,10.527a.775.775,0,1,1,0,1.55.775.775,0,0,1,0-1.55Zm27.906,0a.775.775,0,1,1-.775.775A.732.732,0,0,1,34.231,10.527Zm-13.488,1.55a4.263,4.263,0,0,0-3.8,1.705,4.49,4.49,0,0,0-.31,3.488,1.653,1.653,0,0,0-.233.93,2.263,2.263,0,0,0,.388,1.085c.078.078.233.078.31.155a3.539,3.539,0,0,0,.388,1.085,1.316,1.316,0,0,0,.465.465h0v.775a.914.914,0,0,1-.388.388c-.31.155-.775.31-1.24.543a4.491,4.491,0,0,0-1.473,1.085,3.15,3.15,0,0,0-.775,2.093.843.843,0,0,0,.7.853H25.7a.732.732,0,0,0,.775-.775v-.078a4.227,4.227,0,0,0-.775-2.093A3.82,3.82,0,0,0,24.232,22.7c-.465-.233-.93-.388-1.24-.543-.233-.155-.388-.233-.388-.388v-.775h0a2.055,2.055,0,0,0,.388-.465,2.6,2.6,0,0,0,.388-1.085c.078-.078.233-.078.31-.155a2.263,2.263,0,0,0,.388-1.085A3.18,3.18,0,0,0,24,17.348l-.078-.078a4.078,4.078,0,0,0-.078-2.713A2.851,2.851,0,0,0,21.6,12.93l-.155-.465A.774.774,0,0,0,20.744,12.077ZM20.278,13.7l.078.155a.745.745,0,0,0,.7.543c.93,0,1.163.31,1.4.775a3.269,3.269,0,0,1-.078,2.093.744.744,0,0,0,.233.775h0c0,.233-.078.233-.078.31a.745.745,0,0,0-.465.7,1.106,1.106,0,0,1-.31.62,1.07,1.07,0,0,1-.233.31l-.078.078a.814.814,0,0,0-.388.7v1.318a.285.285,0,0,0,.078.233,2.291,2.291,0,0,0,1.163,1.24c.465.233.93.388,1.318.62a2.929,2.929,0,0,1,.93.7c.078.078.078.233.155.31H15.938c.078-.078.078-.233.155-.31a4.832,4.832,0,0,1,.93-.7c.388-.233.853-.388,1.318-.62a2.291,2.291,0,0,0,1.163-1.24c0-.078.078-.155.078-.233V20.759a.814.814,0,0,0-.388-.7l-.078-.078a1.07,1.07,0,0,1-.233-.31,2.208,2.208,0,0,1-.31-.62.745.745,0,0,0-.465-.7.453.453,0,0,1-.078-.31h0a.937.937,0,0,0,.233-.775,3.652,3.652,0,0,1,.078-2.636A2.2,2.2,0,0,1,20.278,13.7ZM11.752,24.247a.592.592,0,0,0-.388.155L7.8,26.573a2.447,2.447,0,0,0-1.473-.543,2.325,2.325,0,0,0,0,4.651,2.384,2.384,0,0,0,2.325-2.325.983.983,0,0,0-.078-.465l3.566-2.17a.858.858,0,0,0,.31-1.085A.814.814,0,0,0,11.752,24.247Zm17.054,0a.777.777,0,0,0-.775.775.79.79,0,0,0,.388.62l3.566,2.17c0,.155-.078.31-.078.465a2.325,2.325,0,1,0,2.325-2.325,2.447,2.447,0,0,0-1.473.543l-3.566-2.17A3.357,3.357,0,0,0,28.805,24.247ZM6.325,27.58a.775.775,0,1,1,0,1.55.775.775,0,0,1,0-1.55Zm27.906,0a.775.775,0,1,1-.775.775A.732.732,0,0,1,34.231,27.58Zm-13.953.775a.777.777,0,0,0-.775.775v4.031a2.258,2.258,0,0,0-1.55,2.17,2.325,2.325,0,1,0,4.651,0,2.258,2.258,0,0,0-1.55-2.17V29.131a.732.732,0,0,0-.775-.775Zm-.078,6.2h.078a.716.716,0,0,1,.7.775.775.775,0,1,1-1.55,0A.9.9,0,0,1,20.2,34.557Z" transform="translate(461.733 307.171)" fill="#a5cd39"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#cart_icon1)">
+      <image id="cart_icon1-2" data-name="cart_icon1" width="80" height="57" transform="translate(248.42 292.84) rotate(-8)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAA5CAYAAACh6qw/AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQyIDc5LjE2MDkyNCwgMjAxNy8wNy8xMy0wMTowNjozOSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpBM0FCRkVDNTNFODYxMUU5ODFEM0IyNUNBRTkxNUIwMSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpBM0FCRkVDNjNFODYxMUU5ODFEM0IyNUNBRTkxNUIwMSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkEzQUJGRUMzM0U4NjExRTk4MUQzQjI1Q0FFOTE1QjAxIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkEzQUJGRUM0M0U4NjExRTk4MUQzQjI1Q0FFOTE1QjAxIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+aF9zxgAAELVJREFUeNrsWwmQHdV1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"/>
+    </g>
+  </g>
+</svg>
