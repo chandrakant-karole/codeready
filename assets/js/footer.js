@@ -24,9 +24,9 @@ footer.innerHTML = `		<div class="container">
             <p>Phone: (272) 211-7370</p>
             <p><span>E-Mail:</span><br><a href="javascript:;">info@codereadysoftware.com</a></p>
             <ul class="social">
-                <li><a href="javascript:;"><i class="fa fa-facebook-square"></i></a></li>
-                <li><a href="javascript:;"><i class="fa fa-twitter-square"></i></a></li>
-                <li><a href="javascript:;"><i class="fa fa-linkedin-square"></i></a></li>
+                <li><a href="https://www.facebook.com/Codereadysoftwaredotcom/" target="_blank"><i class="fa fa-facebook-square"></i></a></li>
+                <li><a href="https://twitter.com/codereadysoftw1" target="_blank"><i class="fa fa-twitter-square"></i></a></li>
+                <li><a href="https://www.linkedin.com/company/codereadysoftware/" target="_blank"><i class="fa fa-linkedin-square"></i></a></li>
                 <li><a href="javascript:;"><i class="fa fa-google-plus-square"></i></a></li>
                 <li><a href="javascript:;"><i class="fa fa-github-square"></i></a></li>
             </ul>
@@ -36,6 +36,14 @@ footer.innerHTML = `		<div class="container">
 <div class="row">
     <div class="col-lg-12">
         <p class="copyright">© 2021 Code Ready Software. All Rights Reserved.</p>
+    </div>
+    <div class="col-lg-12">
+        <div class="floatingDiv">
+            <div class="buy_now_float" data-bs-toggle="modal" data-bs-target="#exampleModal">Buy Now</div>
+                <a href="https://wa.me/+919770477239">
+                    <img class="floating_whatsApp" src='assets/images/whatsapp-logo.svg' alt="whatsApp-icon">
+                </a>
+        </div>
     </div>
 </div>
 </div>`;

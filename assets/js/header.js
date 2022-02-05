@@ -95,7 +95,7 @@ header.innerHTML = `		<div class="container-fluid">
                                     <a class="list-group-item " href="lime-bike-clone.html">Lime Bike Clone</a>
                                     <a class="list-group-item " href="uber-like-app-e-scooters.html">Uber Like App For E-Scooters</a>
                                     <a class="list-group-item " href="bike-taxi-software.html">Bike Taxi Software</a>
-                                    <a class="list-group-item coming disabled" href="#">Rapdio Clone</a>
+                                    <a class="list-group-item  " href="rapido-clone.html">Rapido Clone</a>
                                 </div>
                                 <h5>Doctor App</h5>
                                 <div class="list-group">
@@ -115,7 +115,7 @@ header.innerHTML = `		<div class="container-fluid">
                                     <a class="list-group-item " href="whatsapp-clone.html">WhatsApp Clone</a>
                                     <a class="list-group-item " href="line-clone.html">Line Clone</a>
                                     <a class="list-group-item " href="viber-clone.html">Viber Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">Twitter Clone</a>
+                                    <a class="list-group-item  " href="twitter-clone.html">Twitter Clone</a>
                                     <a class="list-group-item " href="instagram-clone.html">Instagram Clone</a>
                                     <a class="list-group-item " href="snapchat-clone.html">Snapchat Clone</a>
                                 </div>
@@ -133,7 +133,7 @@ header.innerHTML = `		<div class="container-fluid">
                                 <h5>Entertainment App</h5>
                                 <div class="list-group">
                                     <a class="list-group-item" href="9gag-tv-clone.html">9GAG TV Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">Flipboard Clone</a>
+                                    <a class="list-group-item  " href="flipboard-clone.html">Flipboard Clone</a>
                                     <a class="list-group-item" href="spotify-clone.html">Spotify Clone</a>
                                 </div>
                                 <h5>On-Demand Video Streaming App</h5>
@@ -145,7 +145,7 @@ header.innerHTML = `		<div class="container-fluid">
                                 </div>
                                 <h5>Services</h5>
                                 <div class="list-group">
-                                    <a class="list-group-item coming disabled" href="#">App Marketing Services</a>
+                                    <a class="list-group-item coming " href="app-marketing-services.html">App Marketing Services</a>
                                 </div>
                                 <h5>Logistics App</h5>
                                 <div class="list-group">
@@ -206,13 +206,13 @@ header.innerHTML = `		<div class="container-fluid">
             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown"
                 data-bs-auto-close="outside">On Demand App</a>
             <ul class="dropdown-menu shadow">
-                <li><a class="dropdown-item coming disabled" href="#">Uber Like App Development</a></li>
-                <li><a class="dropdown-item coming disabled" href="#">Admin Dashboard</a></li>
-                <li><a class="dropdown-item coming disabled" href="#">App Work Flow</a></li>
-                <li><a class="dropdown-item coming disabled" href="#">App Features</a></li>
-                <li><a class="dropdown-item coming disabled" href="#">Web Panel Visuals</a></li>
-                <li><a class="dropdown-item coming disabled" href="#">Pricing & Paid Plugins</a></li>
-                <li><a class="dropdown-item coming disabled" href="#">Premium Themes & Templates</a></li>
+               
+                <li><a class="dropdown-item  " href="admin-dashboard.html">Admin Dashboard</a></li>
+                <li><a class="dropdown-item coming " href="app-work-flow.html">App Work Flow</a></li>
+                <li><a class="dropdown-item coming " href="app-features.html">App Features</a></li>
+                <li><a class="dropdown-item coming " href="web-panel-visuals.html">Web Panel Visuals</a></li>
+                <li><a class="dropdown-item coming " href="pricing-paid-plugins.html">Pricing & Paid Plugins</a></li>
+                <li><a class="dropdown-item coming " href="premium-themes-templates.html">Premium Themes & Templates</a></li>
             </ul>
         </li>
         <li class="nav-item dropdown">
@@ -241,39 +241,39 @@ header.innerHTML = `		<div class="container-fluid">
                 data-bs-auto-close="outside">Hire Us</a>
             <ul class="dropdown-menu shadow">
                 <li class="dropstart">
-                    <a href="#" class="dropdown-item dropdown-toggle disabled" data-bs-toggle="dropdown">Mobile App
+                    <a href="#" class="dropdown-item dropdown-toggle " data-bs-toggle="dropdown">Mobile App
                         Development</a>
                     <ul class="dropdown-menu shadow">
-                        <li><a class="dropdown-item coming" href="#">Hire Android App Developers</a></li>
-                        <li><a class="dropdown-item" href="#">Hire iPhone App Developers</a></li>
+                        <li><a class="dropdown-item coming" href="hire-android-app-developers.html">Hire Android App Developers</a></li>
+                        <li><a class="dropdown-item coming" href="hire-iphone-app-developers.html">Hire iPhone App Developers</a></li>
                     </ul>
                 </li>
                 <li class="dropstart">
-                    <a href="#" class="dropdown-item dropdown-toggle disabled" data-bs-toggle="dropdown">Web App
+                    <a href="#" class="dropdown-item dropdown-toggle " data-bs-toggle="dropdown">Web App
                         Development</a>
                     <ul class="dropdown-menu shadow">
-                        <li><a class="dropdown-item" href="#">Hire Angular JS Developers</a></li>
-                        <li><a class="dropdown-item" href="#">Hire NodeJS Developers</a></li>
-                        <li><a class="dropdown-item" href="#">Hire Laravel Developers</a></li>
-                        <li><a class="dropdown-item" href="#">Hire WordPress developer</a></li>
-                        <li><a class="dropdown-item coming" href="#">Hire Magento Developers</a></li>
-                        <li><a class="dropdown-item" href="#">Hire E-Commerce Developers</a></li>
-                        <li><a class="dropdown-item" href="#">Hire .Net Developers</a></li>
-                        <li><a class="dropdown-item" href="#">Hire Meteor JS Developers</a></li>
-                        <li><a class="dropdown-item" href="#">Hire PHP Developers</a></li>
-                        <li><a class="dropdown-item" href="#">Hire MEAN Stack Developers</a></li>
+                        <li><a class="dropdown-item coming" href="hire-angular-js-developers.html">Hire Angular JS Developers</a></li>
+                        <li><a class="dropdown-item coming" href="hire-node-js-developers.html">Hire NodeJS Developers</a></li>
+                        <li><a class="dropdown-item coming" href="hire-laravel-developers.html">Hire Laravel Developers</a></li>
+                        <li><a class="dropdown-item coming" href="hire-wordpress-developers.html">Hire WordPress developer</a></li>
+                        <li><a class="dropdown-item coming" href="hire-magento-developers.html">Hire Magento Developers</a></li>
+                        <li><a class="dropdown-item coming" href="hire-e-commerce-developers.html">Hire E-Commerce Developers</a></li>
+                        <li><a class="dropdown-item coming" href="hire-dot-net-developers.html">Hire .Net Developers</a></li>
+                        <li><a class="dropdown-item coming" href="hire-meteor-js-developers.html">Hire Meteor JS Developers</a></li>
+                        <li><a class="dropdown-item coming" href="hire-php-developers.html">Hire PHP Developers</a></li>
+                        <li><a class="dropdown-item coming" href="hire-mean-stack-developers.html">Hire MEAN Stack Developers</a></li>
                     </ul>
                 </li>
                 <li class="dropstart">
-                    <a href="#" class="dropdown-item dropdown-toggle disabled"
+                    <a href="#" class="dropdown-item dropdown-toggle "
                         data-bs-toggle="dropdown">Marketing</a>
                     <ul class="dropdown-menu shadow">
-                        <li><a class="dropdown-item coming" href="#">Digital Marketing Services</a></li>
-                        <li><a class="dropdown-item" href="#">Mobile App Marketing Services</a></li>
+                        <li><a class="dropdown-item coming" href="digital-marketing-services.html">Digital Marketing Services</a></li>
+                        <li><a class="dropdown-item coming" href coming="mobile-app-marketing-services.html">Mobile App Marketing Services</a></li>
                     </ul>
                 </li>
-                <li><a class="dropdown-item disabled" href="#">Hire a Dedicated Resource</a></li>
-                <li><a class="dropdown-item disabled" href="#">Custom Mobile App Development</a></li>
+                <li><a class="dropdown-item  coming" href="hire-dedicated-resource.html">Hire a Dedicated Resource</a></li>
+                <li><a class="dropdown-item  coming" href="custom-mobile-app-development.html">Custom Mobile App Development</a></li>
             </ul>
         </li>
         <li class="nav-item dropdown">

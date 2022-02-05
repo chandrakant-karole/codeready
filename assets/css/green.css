@@ -2796,3 +2796,51 @@ footer .copyright {
   font-weight: 600;
   color: #ff650094;
 }
+
+/* ======================= Floating Button ============================== */
+.floatingDiv{
+  width: 61px;
+  position: fixed;
+  bottom: 38%;
+  right: 0%;
+  height: 166px;
+  background: #2c8b38;
+  z-index: 50;
+}
+
+.buy_now_float{
+  position: fixed;
+  bottom: 38%;
+  right: 0%;
+  border: none;
+  background-color: #ff6500;
+  padding: 18px 20px;
+  border-radius: 1px;
+  z-index: 50;
+  color: #fff;
+  font-weight: 600;
+  width: 61px;
+  height: 104px;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  cursor: pointer;
+}
+
+.buy_now_float:hover{
+  background-color: #eb5e00;
+}
+
+.floating_whatsApp{
+  /* position: fixed;
+  bottom: 20%;
+  right: 2%; */
+  background: #2c8b38;
+  width: 61px;
+  height: 61px;
+  z-index: 50;
+  padding: 5px;
+}
+
+.floating_whatsApp:hover{
+  background: #1a5c22;
+}
